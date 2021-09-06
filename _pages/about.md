@@ -8,6 +8,9 @@ profile:
   align: right
   image: sharad_suit_square_small.png
   address: >
+    <p>@ <a href="https://research.microsoft.com/~sagarwal">Microsoft</a>,</p>
+    <p>@ <a href="https://grubstakes.vc">Grubstakes</a>,</p>
+    <p>@ Seattle, WA</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
