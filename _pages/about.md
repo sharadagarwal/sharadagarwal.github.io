@@ -9,6 +9,9 @@ profile:
   image: sharad_suit_square_small.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>@ <a href="https://research.microsoft.com/~sagarwal">Microsoft</a>,</p>
+    <p>@ <a href="https://grubstakes.vc">Grubstakes</a>,</p>
+    <p>@ Seattle, WA</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
