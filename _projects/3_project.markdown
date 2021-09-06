@@ -7,4 +7,4 @@ importance: 3
 category: work
 ---
 
-<meta http-equiv="refresh" content="0; url="https://pdmautomotive.com" />
+<meta http-equiv="refresh" content="0; url=https://pdmautomotive.com" />
