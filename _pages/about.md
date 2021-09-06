@@ -2,23 +2,40 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Computer Science Researcher, Engineer & Angel Investor
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sharad_suit_square_small.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a tech leader in cloud services, from distributed systems layers down
+through to the networking stack, and have created new cloud services as well as
+scaled & improved the performance of existing ones. My background is that of a
+computer science researcher and engineer with 16 years at [Microsoft
+Research](http://research.microsoft.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have advanced the state-of-the-art in several technical areas, including
+scalable cloud services, latency in multiplayer games, and geo-distributed
+online services. I have co-authored 40 academic publications with over 7,000
+citations, and co-invented 83 issued patents. I have served on over 60
+committees for international conferences, workshops, journals and the NSF.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have worked closely with Microsoft business groups in my research and have
+impacted products, including Azure, Windows 10, and Windows Phone 8. Together
+with a small team of researchers and engineers, I have designed, implemented and
+stood up a scalable cloud service on Azure that has served over 21 million
+users. I recently became an ACM Distinguished Engineer for outstanding
+engineering contributions to computing.
+
+I am an active angel investor in the Pacific Northwest. I have 22 startups in my
+portfolio, including YCombinator graduates and companies that have gone on to
+raise from successful VC firms. I mentor startup founders through
+[Grubstakes](https://grubstakes.vc), Venture Out, and other groups in Seattle.
+You can find out more about me and contact me via my
+[LinkedIn](https://www.linkedin.com/in/sharadagarwal2/) profile.
