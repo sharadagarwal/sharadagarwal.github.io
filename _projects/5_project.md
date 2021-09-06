@@ -7,4 +7,4 @@ importance: 2
 category: work
 ---
 
-<meta http-equiv="refresh" content="0; url="https://www.kraftful.com" />
+<meta http-equiv="refresh" content="0; url=https://www.kraftful.com" />
