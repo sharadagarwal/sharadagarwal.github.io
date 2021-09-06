@@ -154,6 +154,7 @@ scholar:
 
   last_name: Agarwal
   first_name: [Sharad, S.]
+  full_name: "Sharad Agarwal"
 
   style: acm-sig-proceedings-long-author-list
   locale: en

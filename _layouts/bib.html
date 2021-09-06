@@ -25,6 +25,9 @@
               {% assign author_is_self = true %}
             {% endif %}
           {% endif %}
+          {% if author.last == site.scholar.full_name%}
+            {% assign author_is_self = true %}
+          {% endif %}
           
           {% assign coauthor_url = nil %}
           {% if site.data.coauthors[author.last] %}

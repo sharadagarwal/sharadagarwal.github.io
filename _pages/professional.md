@@ -2,7 +2,7 @@
 layout: page
 permalink: /professional/
 title: professional activities
-description: 
+description: Some of my professional activities
 nav: true
 ---
 
