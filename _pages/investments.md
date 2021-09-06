@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: investments
+permalink: /investments/
+description: I have been fortunate to be able to invest in the following startups.
 nav: true
 display_categories: [work, fun]
 horizontal: false
