@@ -6,7 +6,7 @@ subtitle: Computer Science Researcher, Engineer & Angel Investor
 
 profile:
   align: right
-  image: sharad_suit_square_small.png
+  image: sharad_suit_square_small.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>@ <a href="https://research.microsoft.com/~sagarwal">Microsoft</a>,</p>
