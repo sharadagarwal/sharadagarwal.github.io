@@ -6,7 +6,7 @@ description: Computer Science Researcher, Engineer & Angel Investor
 
 profile:
   align: right
-  image: sharad_suit_square_small.png
+  image: sharad_suit_square_small.jpg
   address: >
     <p>@ <a href="https://research.microsoft.com/~sagarwal">Microsoft</a>,</p>
     <p>@ <a href="https://grubstakes.vc">Grubstakes</a>,</p>
