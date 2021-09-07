@@ -7,4 +7,4 @@ importance: 11
 category: work
 ---
 
-<meta http-equiv="refresh" content="0; url=http://atsu.io" />
+<meta http-equiv="refresh" content="0; url=https://www.crunchbase.com/organization/atsu-corp" />

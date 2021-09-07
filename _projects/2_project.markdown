@@ -2,7 +2,7 @@
 layout: page
 title: <h2 class="card-title" style="text-align:center"><p class="card-text" style="text-align:center">Kraftful</p></h2>
 description: <p class="card-text" style="text-align:center">2021 &amp; 2019<br>ongoing<br>San Francisco, CA</p>
-img: assets/img/investments/Kraftful.png
+img: assets/img/investments/Kraftful.webp
 importance: 2
 category: work
 ---
