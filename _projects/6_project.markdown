@@ -1,10 +1,10 @@
 ---
 layout: page
-title: <h2 class="card-title" style="text-align:center"><p class="card-text" style="text-align:center">PDM Automotive</p></h2>
-description: <p class="card-text" style="text-align:center">2020 &amp; 2021<br>ongoing<br>Seattle, WA</p>
-img: assets/img/investments/PDM.png
+title: <h2 class="card-title" style="text-align:center"><p class="card-text" style="text-align:center">Aura Vision</p></h2>
+description: <p class="card-text" style="text-align:center">2019<br>ongoing<br>UK</p>
+img: assets/img/investments/AuraVision.png
 importance: 6
 category: work
 ---
 
-<meta http-equiv="refresh" content="0; url=https://pdmautomotive.com" />
+<meta http-equiv="refresh" content="0; url=https://auravision.ai" />
