@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a tech leader in cloud services, from distributed systems layers down
+I enjoy innovating in cloud services, from distributed systems layers down
 through to the networking stack, and have created new cloud services as well as
 scaled & improved the performance of existing ones. My background is that of a
 computer science researcher and engineer with 16 years at [Microsoft
@@ -39,6 +39,7 @@ engineering contributions to computing.
 I am an active angel investor in the Pacific Northwest. I have 22 startups in my
 portfolio, including YCombinator graduates and companies that have gone on to
 raise from successful VC firms. I mentor startup founders through
-[Grubstakes](https://grubstakes.vc), Venture Out, and other groups in Seattle.
+[Grubstakes](https://grubstakes.vc), [Venture Out](https://ventureoutstartups.com),
+and other groups in Seattle.
 You can find out more about me and contact me via my
 [LinkedIn](https://www.linkedin.com/in/sharadagarwal2/) profile.
