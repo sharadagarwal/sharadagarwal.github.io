@@ -7,4 +7,4 @@ importance: 1
 category: work
 ---
 
-<meta http-equiv="refresh" content="0; url=https://www.crunchbase.com/organization/neuronix-ai" />
+<meta http-equiv="refresh" content="0; url=https://www.neuronix.ai" />
