@@ -29,7 +29,7 @@ cloud service on Azure that has served over 21 million users.
 
 With 16 years at [Microsoft Research](http://research.microsoft.com/), I have
 co-authored over [40 academic publications](https://sharadagarwal.net/publications/)
-with over [7,500 citations](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en),
+with over [7,700 citations](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en),
 and co-invented 85 issued patents. I have served on over [60 committees](https://sharadagarwal.net/professional/)
 for international conferences, workshops, journals and the NSF. I am an
 [ACM Distinguished Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017)
