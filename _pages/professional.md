@@ -8,11 +8,13 @@ nav: true
 
 -   [ACM Distinguished Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017)
 -   [IEEE](http://www.ieee.org/) Senior Member
--   Information Director
-    -   [ACM SIGMOBILE](http://www.sigmobile.org/about/ec.html) --- July 2013 to June 2017
+- Keynotes
+    -   [IEEE MASS 2022](https://sites.google.com/view/ieee-mass-2022/program/keynotes?authuser=0)
 -   Steering Committee
     -   [MobiGames](http://www.sigmobile.org/mobisys/2015/workshops/mobigames/index.html) --- 2012 to 2015
     -   [ACM HotMobile](http://hotmobile.org/) --- February 2013 to February 2015
+-   Information Director
+    -   [ACM SIGMOBILE](http://www.sigmobile.org/about/ec.html) --- July 2013 to June 2017
 -   General Chair / Co-Chair
     -   [ACM MobiCom 2019](https://sigmobile.org/mobicom/2019)
     -   [ACM HotMobile 2013](http://www.hotmobile.org/2013/)
@@ -55,6 +57,7 @@ nav: true
     -   [IEEE Hot Interconnects 2005](http://www.hoti.org/)
     -   [ACM VANET 2004](http://www.path.berkeley.edu/vanet/)
 -   Miscellaneous
+    -   [IEEE MASS 2022](https://sites.google.com/view/ieee-mass-2022/program/program-at-a-glance?authuser=0) panel member
     -   [ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/) panel moderator
     -   [ACM SIGCOMM 2020 Rising Star Award](http://sigcomm.org/awards/sigcomm-rising-stars) committee chair
     -   [ACM MobiCom 2019](https://www.sigmobile.org/mobicom/2019/) external reviewer
