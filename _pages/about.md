@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Computer Science Researcher, Engineer & Angel Investor
+description: ACM Distinguished Engineer | Angel Investor | Senior Principal Researcher
 
 profile:
   align: right
@@ -17,25 +17,25 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I enjoy innovating in cloud services and distributed systems by producing and
-then integrating computer science research into products, including Azure,
-Windows 10, and Windows Phone 8. I have advanced the state-of-the-art in several
-technical areas, including scalable cloud services, latency in multiplayer
-games, and geo-distributed online services. Together with a small team of
-researchers and engineers, we have designed, implemented and stood up a scalable
-cloud service on Azure that has served over 21 million users. 
+I am an experienced tech innovator in cloud computing, networking, and
+distributed systems. I have applied ML to solve challenging scale problems in
+Azure, built a scalable cloud service on Azure to serve >21 million users
+including on Windows 10, and optimized the Windows Phone 8 networking stack.
 
-With 16 years at [Microsoft Research](http://research.microsoft.com/), I have
-co-authored over [40 academic publications](https://sharadagarwal.net/publications/)
-with over [8,000 citations](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en),
-and co-invented 147 issued patents. I have served on over [60 committees](https://sharadagarwal.net/professional/)
-for international conferences, workshops, journals and the NSF. I am an
-[ACM Distinguished Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017)
-for outstanding engineering contributions to computing.
+I am an [ACM Distinguished
+Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017).
+I am a co-inventor on over 140 issued patents. I have co-authored over [40
+academic publications](https://sharadagarwal.net/publications/), including at
+NSDI, SIGCOMM, MobiSys, and USENIX ATC, with over [8,000
+citations](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en) and an
+[H-index of 43](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en). I
+have served on over [60 academic
+committees](https://sharadagarwal.net/professional/).
 
-As an active angel investor in the Pacific Northwest, I have 22 startups in my
-portfolio, some having graduated from YCombinator, and many having raised
-capital from large VC firms. I mentor startup founders through
-[Grubstakes](https://grubstakes.vc), [Venture Out](https://ventureoutstartups.com),
-and other groups in Seattle. You can find out more about me and contact me via my
+As an active angel investor, I have over 20 startups in my portfolio, some
+having graduated from Y Combinator, and raised capital from large VC firms. I
+mentor and invest in startup founders through
+[Grubstakes](https://grubstakes.vc) and other groups in Seattle.
+
+You can find out more about me and contact me via my
 [LinkedIn](https://www.linkedin.com/in/sharadagarwal2/) profile.
