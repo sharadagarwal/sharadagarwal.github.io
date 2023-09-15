@@ -58,6 +58,7 @@ nav_order: 6
     -   [IEEE Hot Interconnects 2005](http://www.hoti.org/)
     -   [ACM VANET 2004](http://www.path.berkeley.edu/vanet/)
 -   Miscellaneous
+    -   [ACM SIGCOMM 2023](https://conferences.sigcomm.org/sigcomm/2023/cf-posters.html) SRC judge
     -   [IEEE MASS 2022](https://sites.google.com/view/ieee-mass-2022/program/program-at-a-glance?authuser=0) panel member
     -   [ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/) panel moderator
     -   [ACM SIGCOMM 2020 Rising Star Award](http://sigcomm.org/awards/sigcomm-rising-stars) committee chair
@@ -67,10 +68,10 @@ nav_order: 6
     -   [MobiGames 2015](http://www.sigmobile.org/mobisys/2015/workshops/mobigames/index.html) panel member
     -   [ACM HotMobile 2014](http://www.hotmobile.org/2014/) poster & demo judge
     -   [ACM MobiCom 2013 Outrageous Opinions](http://www.sigmobile.org/mobicom/2013/program.html) chair
-    -   [ACM MobiCom 2013 SRC](http://www.sigmobile.org/mobicom/2013/posters.html) judge
+    -   [ACM MobiCom 2013](http://www.sigmobile.org/mobicom/2013/posters.html) SRC judge
     -   [ACM S3 2013](http://nms.csail.mit.edu/s3/2013/index.html) distinguished speaker, elevator pitch judge, poster & demo judge
     -   [ACM MobiSys 2012 Outrageous Opinions](http://www.sigmobile.org/mobisys/2012/program.php) chair
     -   [ACM MobiSys 2012 Mobile Cloud Computing & Services Workshop](http://mcs12.eecs.umich.edu/Program.html) panel member
-    -   [ACM MobiCom 2011 SRC](http://www.sigmobile.org/mobicom/2011/src.html) judge
+    -   [ACM MobiCom 2011](http://www.sigmobile.org/mobicom/2011/src.html) SRC judge
     -   [ACM S3 2011 PhD Forum](http://synrg.ee.duke.edu/mobicom11_s3/program.htm) judge
     -   [ACM MobiSys 2011 PhD Forum](https://sites.google.com/site/mobisys2011phdforum/home) panel member
