@@ -6,6 +6,8 @@ description: Some news articles and announcements that discuss my work
 nav: true
 ---
 
+-   Vronicle and Vronicam
+    -   ["Defeating Deepfakes at the Source"](https://ics.uci.edu/2024/03/07/defeating-deepfakes-at-the-source/), UC Irvine School of Information & Computer Science, 7 March 2024
 -   Tabellion
     -   ["Tabellion: A new system for more secure, independently verifiable legal contracts"](https://www.microsoft.com/en-us/research/blog/tabellion-a-new-system-for-more-secure-independently-verifiable-legal-contracts/), Microsoft Research Blog, 16 June 2020
     -   ["Tabellion Provides Secure Legal Contracts on Mobile Devices"](https://www.ics.uci.edu/community/news/view_news?id=1784), UC Irvine School of Information & Computer Science, 15 June 2020
