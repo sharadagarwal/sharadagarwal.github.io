@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <h2 class="card-title" style="text-align:center"><p class="card-text" style="text-align:center">Megh Computing</p></h2>
-description: <p class="card-text" style="text-align:center">2018<br>closed<br>Hillsboro, OR</p>
+description: <p class="card-text" style="text-align:center">2018<br><a href="https://sentinel-overwatch.com">acquired</a><br>Hillsboro, OR</p>
 img: assets/img/investments/Megh.webp
 importance: 9
 category: work
