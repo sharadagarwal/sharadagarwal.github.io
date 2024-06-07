@@ -5,7 +5,7 @@ permalink: /investments/
 description: I have been fortunate to be able to invest in the following startups.
 nav: true
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
