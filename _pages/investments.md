@@ -5,7 +5,7 @@ permalink: /investments/
 description: I have been fortunate to be able to invest in the following startups.
 nav: true
 display_categories: [work, fun]
-horizontal: true
+horizontal: false
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
@@ -45,7 +45,7 @@ horizontal: true
         </div>
       </div>
     {% else %}
-      <div class="grid">
+      <div class="row row-cols-1 row-cols-md-3">
         {% for project in sorted_projects %}
           {% include projects.html %}
         {% endfor %}
