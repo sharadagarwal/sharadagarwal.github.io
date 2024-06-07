@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: ACM Distinguished Engineer | Angel Investor | Senior Principal Researcher
+subtitle: ACM Distinguished Engineer | Senior Principal Researcher | Angel Investor
 
 profile:
   align: right
