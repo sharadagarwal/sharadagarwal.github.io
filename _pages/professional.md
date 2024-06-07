@@ -4,7 +4,7 @@ permalink: /professional/
 title: professional activities
 description: Some of my professional activities
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 -   [ACM Distinguished Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017)

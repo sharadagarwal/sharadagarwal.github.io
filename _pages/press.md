@@ -4,6 +4,7 @@ permalink: /press/
 title: press
 description: Some news articles and announcements that discuss my work
 nav: true
+nav_order: 5
 ---
 
 -   Vronicle and Vronicam

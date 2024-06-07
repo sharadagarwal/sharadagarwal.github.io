@@ -1,12 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sharadagarwal
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - microsoft/EmbeddedSocial-Service
+  - microsoft/EmbeddedSocial-SyncService-for-OBA
+  - microsoft/EmbeddedSocial-iOS-SDK
+  - microsoft/EmbeddedSocial-Android-SDK
+  - microsoft/EmbeddedSocial-CSharp-API-Library
+  - microsoft/EmbeddedSocial-Java-API-Library
+  - microsoft/EmbeddedSocial-NodeJS-API-Library
+  - microsoft/EmbeddedSocial-Swift-API-Library
+  - cascara-network/cascara-code
+  - trusslab/provcam
+  - trusslab/vronicle
+  - trusslab/tabellion

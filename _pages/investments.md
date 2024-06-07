@@ -4,6 +4,7 @@ title: investments
 permalink: /investments/
 description: I have been fortunate to be able to invest in the following startups.
 nav: true
+nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
