@@ -30,7 +30,7 @@ I am a co-inventor on over 140 issued patents. I have co-authored over [40
 academic publications](https://sharadagarwal.net/publications/), including at
 NSDI, SIGCOMM, MobiSys, and USENIX ATC, with over [8,000
 citations](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en) and an
-[H-index of 44](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en). I
+[H-index of 45](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en). I
 have served on over [60 academic
 committees](https://sharadagarwal.net/professional/).
 
