@@ -10,6 +10,7 @@ nav_order: 4
 -   [ACM Distinguished Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017)
 -   [IEEE](http://www.ieee.org/) Senior Member
 - Keynotes
+    -   [ACM/IRTF ANRW 2024](https://www.irtf.org/anrw/2024/program.html)
     -   [IEEE MASS 2022](https://sites.google.com/view/ieee-mass-2022/program/keynotes?authuser=0)
 -   Steering Committee
     -   [MobiGames](http://www.sigmobile.org/mobisys/2015/workshops/mobigames/index.html) --- 2012 to 2015
@@ -28,6 +29,7 @@ nav_order: 4
     -   [ACM SIGMOBILE MC2R / GetMobile](http://www.sigmobile.org/pubs/mc2r/index.html) --- 2011 to 2017
     -   [ACM SIGCOMM CCR](http://www.sigcomm.org/learn/computer-communication-review/) --- January 2010 to April 2014
 -   Program Committee Member
+    -   [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025)
     -   [ACM MobiSys 2019](https://www.sigmobile.org/mobisys/2019)
     -   [ACM MobiCom 2018](https://sigmobile.org/mobicom/2018/)
     -   [ACM MobiSys 2018 (ERC)](https://www.sigmobile.org/mobisys/2018/)
