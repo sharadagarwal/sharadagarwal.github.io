@@ -26,9 +26,9 @@ including on Windows 10, and optimized the Windows Phone 8 networking stack.
 
 I am an [ACM Distinguished
 Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017).
-I am a co-inventor on over 140 issued patents. I have co-authored over [40
+I am a co-inventor on over 140 issued patents. I have co-authored over [45
 academic publications](https://sharadagarwal.net/publications/), including at
-NSDI, SIGCOMM, MobiSys, and USENIX ATC, with over [8,000
+NSDI, SIGCOMM, MobiSys, and USENIX ATC, with over [9,000
 citations](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en) and an
 [H-index of 45](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en). I
 have served on over [60 academic
