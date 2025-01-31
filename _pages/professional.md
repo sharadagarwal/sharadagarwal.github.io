@@ -60,6 +60,7 @@ nav_order: 4
     -   [IEEE Hot Interconnects 2005](http://www.hoti.org/)
     -   [ACM VANET 2004](http://www.path.berkeley.edu/vanet/)
 -   Miscellaneous
+    -   [ACM MobiCom 2025](https://www.sigmobile.org/mobicom/2025/) Sponsorship co-chair
     -   [ACM SIGCOMM 2023](https://conferences.sigcomm.org/sigcomm/2023/cf-posters.html) SRC judge
     -   [IEEE MASS 2022](https://sites.google.com/view/ieee-mass-2022/program/program-at-a-glance?authuser=0) panel member
     -   [ACM MobiSys 2021](https://www.sigmobile.org/mobisys/2021/) panel moderator
