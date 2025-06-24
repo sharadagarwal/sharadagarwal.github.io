@@ -10,7 +10,8 @@ github_repos:
   - microsoft/EmbeddedSocial-Java-API-Library
   - microsoft/EmbeddedSocial-NodeJS-API-Library
   - microsoft/EmbeddedSocial-Swift-API-Library
-  - cascara-network/cascara-code
   - trusslab/provcam
   - trusslab/vronicle
   - trusslab/tabellion
+  - cascara-network/cascara-code
+  - OTTER-5GWAN/topology
