@@ -10,6 +10,7 @@ github_repos:
   - microsoft/EmbeddedSocial-Java-API-Library
   - microsoft/EmbeddedSocial-NodeJS-API-Library
   - microsoft/EmbeddedSocial-Swift-API-Library
+  - trusslab/scoop
   - trusslab/provcam
   - trusslab/vronicle
   - trusslab/tabellion
