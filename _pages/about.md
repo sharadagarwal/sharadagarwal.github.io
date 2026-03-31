@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I build AI systems that run at scale. My current focus is on three critical problems in AI infrastructure: how to route queries to the right model, how to automate tasks that humans perform when managing cloud systems, and how to debug agentic AI when it goes wrong.
 
-On model routing: I co-created Microsoft's agentic model router — now in production as the Azure AI Foundry Model Router — which intelligently selects among frontier models to optimize cost, latency, and correctness for agentic workloads. Before this work, model routing existed for chat; I extended it to the far harder problem of multi-turn tool-calling agents. Our work changes the financial calculus that CIOs have to do when adopting AI.
+On model routing: I drove research on Microsoft's agentic model router — now in production as the Azure AI Foundry Model Router — which intelligently selects among frontier models to optimize cost, latency, and correctness for agentic workloads. Before this work, model routing existed for chat; our research extended it to the far harder problem of multi-turn tool-calling agents. Our work changes the financial calculus that CIOs have to do when adopting AI.
 
 On agentic automation of operations: I co-created LLexus, a multi-agent AI system that transforms natural language troubleshooting guides (TSGs) or SOPs into deterministic, executable incident workflows — now deployed across Azure PhyNet, Azure Powercapping, M365 and others. We see Time-To-Mitigate (TTM) drop by 9X and on-call engineering effort drop to 0 hours.
 
