@@ -28,7 +28,7 @@ On agentic automation of operations: I co-created LLexus, a multi-agent AI syste
 
 On debuggability: we are building a system to trace agentic output back to the specific inputs that caused them — tackling one of the hard problems in making AI systems trustworthy in production.
 
-My research has shipped and my systems have run in prod, impacting several Microsoft products across Azure, M365 and Windows. My papers get cited ([45+ academic publications](https://sharadagarwal.net/publications/), [9,600+ citations](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en), [H-index 46](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en)). I co-invented 100+ issued patents. I've been recognized as an [ACM Distinguished Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017). I am also an angel investor in 20+ startups (several Y Combinator graduates).
+My research has shipped and my systems have run in prod, impacting several Microsoft products across Azure, M365 and Windows. My papers get cited ([45+ academic publications](https://sharadagarwal.net/publications/), [9,700+ citations](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en), [H-index 46](https://scholar.google.com/citations?user=csgUXLsAAAAJ&hl=en)). I co-invented 100+ issued patents. I've been recognized as an [ACM Distinguished Engineer](https://www.acm.org/media-center/2017/november/distinguished-members-2017). I am also an angel investor in 20+ startups (several Y Combinator graduates).
 
 You can find out more about me and contact me via my
 [LinkedIn](https://www.linkedin.com/in/sharadagarwal2/) profile.
