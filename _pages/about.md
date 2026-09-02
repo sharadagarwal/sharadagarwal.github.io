@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Building AI systems | Senior Principal Researcher @ Microsoft Research | ACM Distinguished Engineer
+subtitle: Building AI systems | Partner Researcher @ Microsoft Research | ACM Distinguished Engineer
 
 profile:
   align: right
